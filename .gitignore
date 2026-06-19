@@ -1,0 +1,30 @@
+# Vivado generated folders
+.Xil/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+
+# Vivado logs / journals / reports
+*.jou
+*.log
+*.str
+*.rpt
+*.dcp
+*.vdi
+
+# Bitstream / generated outputs
+*.bit
+*.bin
+*.mcs
+*.ltx
+
+# Simulation outputs
+*.wdb
+*.vcd
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
