@@ -178,8 +178,6 @@ flowchart TD
 ## 🎬 7. Demonstration (시연 영상)
 <br>
 
-### Demonstration Video (시연 영상)
-
 <p> <a href="https://www.youtube.com/watch?v=hIA0RXWNTHo"> <img src="./images/youtube.png" alt="YouTube Demo" width="500"> </a> </p>
 
 ## *이미지를 클릭하면 영상으로 이동합니다*
