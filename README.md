@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-## 6. I/O Control (입출력 제어)
+### 5.3 I/O Control (입출력 제어)
 
 | Input / Output | Function |
 |---|---|
@@ -140,7 +140,7 @@ flowchart TD
 
 ---
 
-## 🎬 7. Demonstration (시연 영상)
+## 🎬 6. Demonstration (시연 영상)
 
 <br><br>
 
@@ -151,9 +151,9 @@ flowchart TD
 <br><br>
 
 
-## 🎯 8. Troubleshooting (문제 해결 기록)
+## 🎯 7. Troubleshooting (문제 해결 기록)
 
-### 8.1 빈자리 표시 문제
+### 7.1 빈자리 표시 문제
 
 **🔍 문제 상황**
 
@@ -172,7 +172,7 @@ flowchart TD
 - 주차 공간이 얼마 남지 않았을 때, VGA 화면에서 확인하기 용이하게 됨
 ---
 
-### 8.2 주차 위치 확인 문제
+### 7.2 주차 위치 확인 문제
 
 **🔍 문제 상황**
 
@@ -192,7 +192,7 @@ flowchart TD
 
 ---
 
-### 8.3 주차 완료 상태 전환 오류
+### 7.3 주차 완료 상태 전환 오류
 
 **🔍 문제 상황**
 
@@ -215,7 +215,7 @@ flowchart TD
 
 
 
-## 🔧 9. Future Improvements (개선 사항)
+## 🔧 8. Future Improvements (개선 사항)
 
 - Basys3 내부 클럭으로 각 자리별 주차 시간을 카운팅하고, 출차 시 경과 시간에 따라 요금을 7-seg에 표시하는 기능을 추가
 - UART, Bluetooth, Wi-Fi 등을 이용해 PC 또는 모바일 화면에서 주차 상태 확인
